@@ -19,6 +19,8 @@ langchain
 langchain-openai
 python-dotenv
 pysqlite3-binary
+tweepy
+pytrends
 
 
 ###### Requirements with Version Specifiers ######
